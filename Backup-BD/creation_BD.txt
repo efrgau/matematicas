@@ -1,0 +1,5 @@
+En la realización de la base de datos se recomienda:
+
+1. Crear la base de datos con el nombre "matematicas"
+2. Crear un usuario llamado "matematicas" y con clave "matematicas"
+3. Otorgar todos los permisos a este usuario para trabajar el Sistema y la base de datos.
